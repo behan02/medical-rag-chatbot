@@ -1,1 +1,1 @@
-API_URL="http://127.0.0.1:8000"
+API_URL="https://medical-rag-chatbot-0z1w.onrender.com"
