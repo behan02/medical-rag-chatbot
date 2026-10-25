@@ -9,7 +9,7 @@ langchain-core
 langchain-groq
 
 pinecone
-
+langchain-pinecone
 langchain-google-genai
 
 PyPDF
